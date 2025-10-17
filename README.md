@@ -10,5 +10,6 @@ Reads all of the exchange, candle pairs from the Jesse database and runs imports
 # Parameters
 
 --now - runs the import immediately
+
 --time hh:mm - runs at this time everyday
 
